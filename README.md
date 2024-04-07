@@ -3,7 +3,7 @@
 You can test the code using doctest by running the program directly. (or submit it to LeetCode for detailed testing)  
 Link and the solution by TA is provided below.
 ```sh
-python ./{problem-name}.py
+python3 ./{problem-name}.py
 ```
 
 #### Part 0. Basics
