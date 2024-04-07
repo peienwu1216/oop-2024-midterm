@@ -1,5 +1,0 @@
-from typing import List, Optional
-    
-if __name__ == "__main__":
-    import doctest
-    doctest.testmod(verbose=True)
