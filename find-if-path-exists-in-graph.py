@@ -47,6 +47,14 @@ class Solution:
             >>> destination2 = 5
             >>> solution.validPath(n2, edges2, source2, destination2)
             False
+
+            # Example 3:
+            >>> n3 = 10
+            >>> edges3 = [[0,7],[0,8],[6,1],[2,0],[0,4],[5,8],[4,7],[1,3],[3,5],[6,5]]
+            >>> source3 = 7
+            >>> destination3 = 5
+            >>> solution.validPath(n3, edges3, source3, destination3)
+            True
         """
         
         # parents = [i for i in range(n)]
